@@ -46,5 +46,5 @@ $ node .
 ---
 
 ## Additional Information
-- Need help? Join the [Discord Server](https://discord.ggqlofy).
+- Need help? Join the [Discord Server](https://discord.gg/lofy).
 - Contributions are welcome! Open an issue or create a pull request.
