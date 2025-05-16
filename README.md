@@ -18,7 +18,9 @@
 
 - [x] - [Gen Proof from user's ID](https://github.com/AkiraLofyy/Nitro-Proof-Gen) - Create a proof from an existing user ID.
 - [x] - [Manually Gen Proof](https://github.com/AkiraLofyy/Nitro-Proof-Gen) - Create a proof manually by choosing the user's name and profile picture.
-
+<p align="center">
+  <img src="https://github.com/AkiraLofyy/Nitro-Proof-Gen/blob/main/image.png?raw=true" width="auto" height="auto">
+</p>
 ---
 
 ## How To Setup/Install
